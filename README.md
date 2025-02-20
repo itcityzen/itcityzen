@@ -1,5 +1,7 @@
 
-<img width="150" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="150" align="right" src="https://c.tenor.com/zZwhISRsAnQAAAAC/code.gif">
+<img width="150" align="center" src="https://c.tenor.com/-fpoDL2Bw70AAAAi/symbol-code.gif">
+
 
 
 <h3 align="center">
